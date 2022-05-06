@@ -39,7 +39,7 @@ It will run on  `http://127.0.0.1:5000`
 
 This simple flask app is a travel planning site 
 
-The main functionalities of flask app:
+The main functionalities of this app:
 * Register to the app with account.
 * Login to the app.
 * Authenticate only registered users to the profile page.
