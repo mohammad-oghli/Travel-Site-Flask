@@ -1,7 +1,7 @@
 ## _Travel Site Flask Simple Web App_
 
 I attached required dependencies to run the app locally on your machine
-you can find it in the requirements.txt file.
+you can find it in `requirements.txt` file.
 
 To install dependencies run this command on your terminal:
 
