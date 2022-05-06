@@ -43,8 +43,8 @@ The main functionalities of this app:
 * Register to the app with account.
 * Login to the app.
 * Authenticate only registered users to the profile page.
-* View user travel destination sites.
-* Add new travel destination site.
+* View travel destination sites for logged-in user.
+* Add new travel destination site for logged-in user.
 * Logout from user account.
 
 
